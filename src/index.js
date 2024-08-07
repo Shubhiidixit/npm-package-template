@@ -7,6 +7,20 @@ const emojiMap = {
     ":laughing:": "😂",
     ":crying:": "😭",
     ":sunglasses:": "😎",
+    ":sun_with_face:": "🌞",
+    ":coffee:": "☕",
+    ":memo:": "📝",
+    ":birthday:": "🎂",
+    ":tada:": "🎉",
+    ":beach_with_umbrella:": "🏖️",
+    ":briefcase:": "💼",
+    ":clap:": "👏",
+    ":fire:": "🔥",
+    ":star:": "⭐",
+    ":rocket:": "🚀",
+    ":muscle:": "💪",
+    ":wave:": "👋",
+    ":wink:": "😉"
     // Add more emoji mappings as needed
 };
 
