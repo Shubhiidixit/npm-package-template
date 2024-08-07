@@ -24,6 +24,9 @@ npm install commander
 node src/cli.js "Hello :smile:! How are you :thumbsup:?"
 ```
 
+![image](https://github.com/user-attachments/assets/418a475d-913c-432f-aa53-206a605f4505)
+
+
 ## Contributing
 We welcome contributions! If you'd like to contribute to text2emoji, please follow these steps:
 
