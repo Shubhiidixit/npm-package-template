@@ -1,4 +1,4 @@
-# npm-package-template:Text2emoji
+# npm-package-template: Text2emoji
 Text2emoji is a lightweight npm package that converts text into emojis, providing a fun and expressive way to communicate.
 
 ## Description
